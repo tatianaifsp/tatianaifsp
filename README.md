@@ -36,9 +36,9 @@
 
 ## ✨ Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]([(https://www.linkedin.com/in/tatiana-aparecida-almeida-960281161/?originalSubdomain=br)
-[![Lattes](https://img.shields.io/badge/-Lattes-blueviolet)](http://lattes.cnpq.br/seu-lattes)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:seu.email@dominio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/tatiana-aparecida-almeida-960281161).
+[![Lattes](https://img.shields.io/badge/-Lattes-blueviolet)](http://lattes.cnpq.br/4268925556101868)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tatiana.ifsp@gmail.com)
 
 ---
 
