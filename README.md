@@ -1,4 +1,4 @@
-<h1 align="center">👩‍🏫 Olá, eu sou a Professora [Tatiana Aparecida de Almeida]!</h1>
+<h1 align="center">👩‍🏫 Olá, eu sou a Professora Tatiana Aparecida de Almeida</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SENAI-Faculdade%20Roberto%20Mange-blue" />
